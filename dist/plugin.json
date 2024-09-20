@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "pluginName": "JSDoc 文档",
+  "description": "JSDoc 中文文档",
+  "author": "IT老大哥",
+  "homepage": "http://www.itldg.com",
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "jsdoc",
+      "explain": "JSDoc 中文文档",
+      "cmds": [
+        "JSDoc"
+      ]
+    }
+  ]
+}

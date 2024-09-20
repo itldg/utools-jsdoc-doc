@@ -1,0 +1,10 @@
+{
+	"name": "utools-jsdoc-doc",
+	"version": "1.0..",
+	"description": "JSDoc 文档",
+	"scripts": {
+		"build": "node ldg.js"
+	},
+	"author": "IT老大哥",
+	"license": "MIT"
+}
